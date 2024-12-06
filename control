@@ -1,0 +1,11 @@
+Homepage: TTRIEU2010
+Depiction: TTRIEU2010
+Author: DESIGN BY TTRIEU
+Maintainer: DES MODER
+Name: THEME MENU VIP
+Package: com.theme.ttrieu
+Depends: firmware (>= 8.0)
+Section: Utilities
+Architecture: iphoneos-arm
+Description: DESIGN BY TTRIEU
+dev: TTRIEU
